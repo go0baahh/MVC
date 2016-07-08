@@ -2,8 +2,6 @@
 /**
  * Main class
  *
- * @package ebc
- * @subpackage ebc.core.framework
  */
 class Object
 {
