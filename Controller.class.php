@@ -3,8 +3,6 @@ require_once FRAMEWORK_PATH . 'Object.class.php';
 /**
  * Main controller
  *
- * @package ebc
- * @subpackage ebc.core.framework
  */
 class Controller extends Object
 {
@@ -211,16 +209,6 @@ class Controller extends Object
 		  return $this->getRoleId() == 3;
 			
 		}
-/**
- * Check for demo mode
- *
- * @access public
- * @return bool
- */
-	function isDemo()
-    {
-   		return $this->isDemo;
-    }
 /**
  * Get file extension
  *
