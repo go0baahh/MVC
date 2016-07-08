@@ -3,8 +3,6 @@ require_once FRAMEWORK_PATH . 'Object.class.php';
 /**
  * Main model
  *
- * @package ebc
- * @subpackage ebc.core.framework
  */
 class Model extends Object
 {
