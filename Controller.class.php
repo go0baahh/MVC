@@ -1,7 +1,7 @@
 <?php
 require_once FRAMEWORK_PATH . 'Object.class.php';
 /**
- * Main controller !!
+ * Main controller
  *
  */
 class Controller extends Object
